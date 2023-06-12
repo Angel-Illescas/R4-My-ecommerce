@@ -1,0 +1,22 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "area": "Ventas",
+      "numero_trabajador": 12345,
+      "correo": "juan@example.com",
+      "contraseña": "password123"
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "Gómez",
+      "area": "Recursos Humanos",
+      "numero_trabajador": 67890,
+      "correo": "maria@example.com",
+      "contraseña": "password456"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan Ramón",
+      "apellido": "Pérez Pérez",
+      "area": "Ventas",
+      "numero_trabajador": 12345,
+      "correo": "juan@example.com",
+      "contraseña": "password123",
+      "confirmarContraseña": "password123"
+    },
+    {
+      "id": 2,
+      "nombre": "María Guadalupe",
+      "apellido": "Gómez Cruz",
+      "area": "Recursos Humanos",
+      "numero_trabajador": 67890,
+      "correo": "maria@example.com",
+      "contraseña": "password456",
+      "confirmarContraseña": "password456"
+    },
+    {
+      "id": 3,
+      "nombre": "Angel Alfonso",
+      "apellido": "Illescas Cruz",
+      "area": "Diseño",
+      "numero_trabajador": 151,
+      "correo": "a-a-ic@hotmail.com",
+      "contraseña": "123456",
+      "confirmarContraseña": "123456"
+    },
+    {
+      "nombre": "Ornito",
+      "apellido": "Azulito",
+      "area": "Frontend",
+      "numero_trabajador": 25642,
+      "correo": "ornito@gmail.com",
+      "contraseña": "123456",
+      "confirmarContraseña": "123456",
+      "id": 4
+    },
+    {
+      "nombre": "Angel",
+      "apellido": "Cruz",
+      "area": "Desarrollo",
+      "numero_trabajador": 1311,
+      "correo": "desarrollo@gmail.com",
+      "contraseña": "123456",
+      "confirmarContraseña": "123456",
+      "id": 5
+    },
+    {
+      "nombre": "Angel",
+      "apellido": "Cruz Cruz",
+      "area": "Desarrollo",
+      "numero_trabajador": 13113,
+      "correo": "desarrollo2@gmail.com",
+      "contraseña": "123456",
+      "confirmarContraseña": "123456",
+      "id": 6
+    },
+    {
+      "nombre": "Angel Alfonso",
+      "apellido": "Illescas Cruz",
+      "area": "Fronted",
+      "numero_trabajador": 4242,
+      "correo": "a-a-ic12@hotmail.com",
+      "contraseña": "654321",
+      "confirmarContraseña": "654321",
+      "id": 7
+    },
+    {
+      "nombre": "Ornito",
+      "apellido": "Verde",
+      "area": "Marketing",
+      "numero_trabajador": 1212,
+      "correo": "ornito-verde@gmail.com",
+      "contraseña": "12345",
+      "confirmarContraseña": "12345",
+      "id": 8
+    }
+  ]
+}
