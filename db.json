@@ -79,6 +79,26 @@
       "contraseña": "12345",
       "confirmarContraseña": "12345",
       "id": 8
+    },
+    {
+      "nombre": "Ornito Dos",
+      "apellido": "Azul",
+      "area": "Comunicación",
+      "numero_trabajador": 8954,
+      "correo": "ejemplo_01@gmail.com",
+      "contraseña": "123456789",
+      "confirmarContraseña": "123456789",
+      "id": 9
+    },
+    {
+      "nombre": "Ornito",
+      "apellido": "Amarillo",
+      "area": "Comunicación",
+      "numero_trabajador": 9648,
+      "correo": "amarillo@gmail.com",
+      "contraseña": "123456",
+      "confirmarContraseña": "123456",
+      "id": 10
     }
   ]
 }
