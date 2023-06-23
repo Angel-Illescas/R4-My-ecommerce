@@ -1,4 +1,5 @@
 import './App.css';
+import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Productos_des_page from './components/pages/Productos_des_page';
 import Registro_ventas_page from './components/pages/Registro_ventas_page';
